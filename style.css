@@ -4,13 +4,14 @@ body{
 }
 h1{
     font-size: 50px;
-    color: antiquewhite;
+    
 }
 .orange-color{
     color: orange;
 }
 section{
     display: flex;
+    
 }
 .half-width{
     width: 50%;
@@ -29,5 +30,13 @@ section{
 }
 .top-banner{
     background-image: url(images/pexels-uzunov-rostislav-5011647.jpg);
+    background-repeat:no-repeat;
+   
+}
+.image{
+    width: 100%;
+}
+.dream-big{
+    background-image: url(images/pexels-pixabay-38537.jpg);
     background-repeat: no-repeat;
 }
